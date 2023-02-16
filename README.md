@@ -19,4 +19,6 @@ I'm a software developer who enjoys building web applications and exploring new 
 - [Email](sinha.animesh36@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/animesh-kumar-49695015a/)
 
+[![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmranimesh)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kmranimesh)](https://git.io/streak-stats)
