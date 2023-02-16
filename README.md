@@ -11,8 +11,8 @@ I'm a software developer who enjoys building web applications and exploring new 
 
 ## Projects
 
-- [CodeHut](https://github.com/your-username/project-name) - Briefly describe your project and include a link to the GitHub repository.
-- [Challan - X](https://github.com/your-username/project-name) - Briefly describe your project and include a link to the GitHub repository.
+- [CodeHut](https://github.com/your-username/project-name) A one stop to coding competitions.
+- [Challan - X](https://github.com/your-username/project-name) Regularising the traffic.
 
 ## Contact Me
 
