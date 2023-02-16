@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm [Animesh Kumar] 👋
 
-<!--
-**kmranimesh/kmranimesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a software developer who enjoys building web applications and exploring new technologies. I'm passionate about writing clean, efficient, and maintainable code that solves real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming Languages: [List your programming languages here]
+- Frameworks: [List your frameworks here]
+- Databases: [List your databases here]
+- Tools: [List your tools here]
+
+## Projects
+
+- [Project Name](https://github.com/your-username/project-name) - Briefly describe your project and include a link to the GitHub repository.
+- [Project Name](https://github.com/your-username/project-name) - Briefly describe your project and include a link to the GitHub repository.
+
+## Open Source Contributions
+
+- [Contribution Name](https://github.com/your-username/contribution-name) - Briefly describe your contribution and include a link to the GitHub repository.
+- [Contribution Name](https://github.com/your-username/contribution-name) - Briefly describe your contribution and include a link to the GitHub repository.
+
+## Contact Me
+
+- [Email](mailto:your-email@domain.com)
+- [LinkedIn](https://www.linkedin.com/in/your-username/)
+- [Website](https://your-website.com)
